@@ -1,0 +1,107 @@
+1、陈述句
+
+肯定式  I have money
+
+否定式  I don't (do not) have money
+
+肯定变否定的方式，助动词（do）后面加否定词（not）
+
+
+主 + 谓（不及物动词才能玩主谓结构）
+
+I run
+
+主 + 谓 + 宾
+
+I love you
+
+主 + 系 + 表
+
+I am lron Man
+
+系动词=be动词（那一堆各种各样的是 am is are 等等）
+感官动词（看、听、闻、尝、感觉、变得、似乎、保持、证明）
+句子中间的谓语动词，如果是系动词后面就是表
+
+主 + 谓 + 双宾（直接宾语 + 间接宾语）
+
+I give you money
+
+双宾表示，谓语后面加的两个东西，都是动作的对象
+判断技巧：谓语后面两个东西，都能做被动语态主语就是双宾，否则就是宾补
+
+主 + 谓 + 宾 + 宾补
+
+They ordered hamburger their lunch
+
+
+2、疑问句
+
+一般疑问（Do you love me?）
+
+特殊疑问（Why do you love me?）
+
+选择疑问（Do you love my body or my heart?）
+
+反义疑问（You love me, Don't you?）
+
+
+一般疑问句，可以用 yes，no 回答
+陈述句变一般疑问句三种方式：提前系动词、提前助动词、提前情态动词
+
+// ***
+提前系动词（be 动词、感官动词）  主 + 系 + 表 变成 系 + 主 + 表
+
+陈述句：You (are) an idiot.
+一般疑问句：(Are) you an idiot?
+回答：Yes, I am / No, I'm not.
+
+// ***
+提前助动词（do、have、shall 等）  主 + 谓 + （宾） 变成 助动词 + 主 + 动词原形 + 其它
+
+陈述句：You (have) got light bulbs.
+一般疑问句：(Have) you got light bulbs?
+回答：Yes, I have / No, I haven't
+
+// ***
+提前情态动词（can、may、will 等）  主 + 情态动词 + 动词原形 + 其它 变成 情态动词 + 主 + 动词原形 + 其它
+
+陈述句：You (can) play football.
+一般疑问句：(can) you play football.
+回答：Yes, I can / No, I can't
+
+
+特殊疑问句，不可以用 yes，no 回答
+对句子中的某个句子成分提问 用特殊疑问词开头
+
+Who 提问人：Who's next?
+Whose 提问所属：Whose car is this?
+Whom 提问宾格人：Whom did you choose for our them leader?
+What 提问事情属性：What time is it?
+When 提问时间：When can we start working?
+Where 提问地点：Where is the bathroom?
+Why 提问原因：Why did he do it?
+How 提问方式数量：How heavy is it?
+How much/many 多少：How much longer?
+Which 提问选择：Which is your choice?
+
+
+选择疑问句，不可以用 yes，no 回答
+选择疑问用 or 连接，提问两个以上的句子内容供选择
+
+Do you like to play football or basketball?
+
+I like to play football / I like to play basketball
+
+
+反义疑问句，可以用 yes，no 回答
+前肯后否，前否后肯
+
+陈述句部分是肯定，疑问句部分用否定句
+He is your teacher, isn't he?
+
+陈述句部分是否定，反义疑问句用肯定句
+He isn't your teacher, is he?
+
+根据事实回答：Yes, he is / No, he isn't
+
